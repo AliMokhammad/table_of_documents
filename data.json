@@ -1,0 +1,107 @@
+{
+  "documents1": [
+    {
+      "id": "1",
+      "status": "Active",
+      "sum": 6,
+      "qty": 3,
+      "volume": 99,
+      "name": "Item 1",
+      "delivery_date": "2022-08-04T22:58:38Z",
+      "currency": "₽"
+    },
+
+    {
+      "id": "2",
+      "status": "Archive",
+      "sum": 888,
+      "qty": 3,
+      "volume": 74,
+      "name": "Item 2",
+      "delivery_date": "2022-11-03T04:44:13Z",
+      "currency": "€"
+    },
+    {
+      "id": "3",
+      "status": "Active",
+      "sum": 65,
+      "qty": 35,
+      "volume": 12,
+      "name": "Item 13",
+      "delivery_date": "2022-09-20T23:17:24Z",
+      "currency": "$"
+    }
+  ],
+  "documents2": [
+    {
+      "id": "4",
+      "status": "Archive",
+      "sum": 12,
+      "qty": 98,
+      "volume": 13,
+      "name": "Item 14",
+      "delivery_date": "2022-02-22T01:25:54Z",
+      "currency": "₽"
+    },
+    {
+      "id": "5",
+      "status": "Active",
+      "sum": 305,
+      "qty": 3,
+      "volume": 67,
+      "name": "Item 15",
+      "delivery_date": "2022-11-12T00:45:17Z",
+      "currency": "€"
+    },
+    {
+      "id": "6",
+      "status": "Archive",
+      "sum": 30,
+      "qty": 52,
+      "volume": 16,
+      "name": "Item 16",
+      "delivery_date": "2022-09-29T19:24:13Z",
+      "currency": "₽"
+    },
+    {
+      "id": "7",
+      "status": "Archive",
+      "sum": 77,
+      "qty": 96,
+      "volume": 13,
+      "name": "Item 17",
+      "delivery_date": "2022-02-02T18:32:43Z",
+      "currency": "$"
+    },
+    {
+      "id": "8",
+      "status": "Archive",
+      "sum": 63,
+      "qty": 91,
+      "volume": 10,
+      "name": "Item 18",
+      "delivery_date": "2022-11-09T11:47:07Z",
+      "currency": "₽"
+    },
+    {
+      "id": "9",
+      "status": "Active",
+      "sum": 96,
+      "qty": 63,
+      "volume": 30,
+      "name": "Item 19",
+      "delivery_date": "2022-04-24T21:06:40Z",
+      "currency": "€"
+    },
+    {
+      "id": "10",
+      "status": "Archive",
+      "sum": 25,
+      "qty": 74,
+      "volume": 30,
+      "name": "Item 199",
+      "delivery_date": "2022-11-17T12:09:55Z",
+      "currency": "€"
+    }
+  ]
+}
